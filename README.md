@@ -7,6 +7,8 @@ DOWNLOAD: Select and download the ZIP file, extract and install the variable or 
 Currently on beta version 0.4, files available for personal or commercial use.
 Atualmente na versão beta 0.4, arquivos disponíveis para uso pessoal ou comercial.
 
+Confira o projeto no Behance: https://www.behance.net/gallery/127893811/Esquinera-Variable-Typeface
+
 ##### PORTUGUÊS
 
 Versão 0.4 (beta) da fonte Esquinera, por Nick Auler.
